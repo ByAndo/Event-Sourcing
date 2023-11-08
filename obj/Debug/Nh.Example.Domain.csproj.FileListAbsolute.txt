@@ -1,0 +1,6 @@
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\bin\Debug\Nh.Example.Domain.dll
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\bin\Debug\Nh.Example.Domain.pdb
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\obj\Debug\Nh.Example.Domain.csprojAssemblyReference.cache
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\obj\Debug\Nh.Example.Domain.csproj.CoreCompileInputs.cache
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\obj\Debug\Nh.Example.Domain.dll
+D:\Study\EventSourcing\ExampleFirst\Event-Sourcing\obj\Debug\Nh.Example.Domain.pdb
